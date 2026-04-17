@@ -1,4 +1,4 @@
-# DecodeLabs Internship Projects 🚀
+# DecodeLabs Internship Projects 
 
 This repository contains projects completed during my Full Stack Development Internship at DecodeLabs.
 

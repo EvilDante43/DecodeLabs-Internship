@@ -25,11 +25,28 @@ This repository contains projects completed during my Full Stack Development Int
 
 ---
 
+### 🔹 Project 3: Database Integration (MongoDB)
+- Built using Node.js, Express, MongoDB, and Mongoose
+- Features:
+  - Connected backend with MongoDB Atlas
+  - Designed User schema using Mongoose
+  - Implemented full CRUD operations:
+    - Create (POST /users)
+    - Read (GET /users)
+    - Update (PUT /users/:id)
+    - Delete (DELETE /users/:id)
+  - Data validation and error handling
+  - Persistent data storage (data remains after server restart)
+
+---
+
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript
 - Node.js, Express.js
+- MongoDB, Mongoose
 
 ## 💡 Learning Outcome
 - Understanding of frontend and backend development
 - REST API development
+- Database integration and CRUD operations
 - Real-world project structure
